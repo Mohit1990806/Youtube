@@ -1,0 +1,7 @@
+<script>
+setTimeout(function() {
+  window.location.href = "https://www.youtube.com/watch?v=Y5xbzUK9l6A";
+}, 6000);
+</script>
+
+<h2>Please wait, redirecting to video...</h2>
